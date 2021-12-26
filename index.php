@@ -12,7 +12,7 @@
 </head>
 
 <body>
-<button class="enableEthereumButton">Enable Ethereum</button>
+<button class="enableEthereumButton">Enable Ethereum </button>
 <h2>Account: <span class="showAccount"></span></h2>
 <h2>ETH Balance: <span class="showETHBalance"></span></h2>
 <h2>ETH Token Balance: <span class="showETHTokenBalance"></span></h2>
